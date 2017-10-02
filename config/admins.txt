@@ -7,9 +7,15 @@
 # NOTE: if the rank-name cannot be found in admin_ranks.txt, they will not be adminned! ~Carn #
 # NOTE: syntax was changed to allow hyphenation of ranknames, since spaces are stripped.      #
 ###############################################################################################
+AffectedArc07 = Hosting Provider
 Chris poop = Host
-DarthBatman = Administrator
-Mrblade = Administrator
-TheLastRolo = Adminsitrator
-AffectedArc07 = Hosting Providers
-
+Alchemical = Trial Admin
+glordqtinkle = Game Admin
+MrBlade = Trial Admin
+DarthBatman = Trial Admin
+danke = Trial Admin
+smibbly = Coder
+dregonsteps = Game Admin
+TheBoneZone = Trial Admin
+small_boss = Game Admin
+thefastfoodguy = Coder
