@@ -1009,11 +1009,9 @@ GLOBAL_LIST_EMPTY(uplink_items) // Global list so we only initialize this once.
 
 /datum/uplink_item/device_tools/powersink
 	name = "Power Sink"
-	desc = "When screwed to wiring attached to a power grid and activated, this large device places excessive \
-			load on the grid, causing a station-wide blackout. The sink is large and cannot be stored in most \
-			traditional bags and boxes."
+	desc = "Given an absurd cost because powersinks on stations with no engine are not fun."
 	item = /obj/item/device/powersink
-	cost = 6
+	cost = 100
 
 /datum/uplink_item/device_tools/singularity_beacon
 	name = "Power Beacon"
