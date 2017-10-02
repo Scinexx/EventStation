@@ -18,4 +18,4 @@ smibbly = Coder
 dregonsteps = Game Admin
 TheBoneZone = Trial Admin
 small_boss = Game Admin
-thefastfoodguy = Coder
+Thefastfoodguy = Coder
