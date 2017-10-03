@@ -3,7 +3,4 @@
 #Empty lines and lines starting with # are ignored.
 #~Miauw
 
-You are expensive to replace
-The station is expensive to replace
-The crew are expensive to replace
-Minimize expenses
+Listen to the admins
