@@ -19,3 +19,4 @@ DregonSteps = Game Admin
 TheBoneZone = Trial Admin
 small_boss = Game Admin
 Thefastfoodguy = Coder
+Coolcatisfeelinggroovy = Trial Admin
