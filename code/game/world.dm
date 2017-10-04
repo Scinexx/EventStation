@@ -248,17 +248,12 @@ GLOBAL_PROTECT(security_mode)
 		var/server_name = CONFIG_GET(string/servername)
 		if (server_name)
 			s += "<b>[server_name]</b> &#8212; "
-		features += "[CONFIG_GET(flag/norespawn) ? "no " : ""]respawn"
-		if(CONFIG_GET(flag/allow_vote_mode))
-			features += "vote"
-		if(CONFIG_GET(flag/allow_ai))
-			features += "AI allowed"
-		hostedby = CONFIG_GET(string/hostedby)
+		features += "This station is all about events, for the rules, check out the GitHub readme."
 
 	s += "<b>[station_name()]</b>";
 	s += " ("
-	s += "<a href=\"http://\">" //Change this to wherever you want the hub to link to.
-	s += "Default"  //Replace this with something else. Or ever better, delete it and uncomment the game version.
+	s += "<a href=\"https://github.com/AffectedArc07/EventStation">" //Change this to wherever you want the hub to link to.
+	s += "GitHub"  //Replace this with something else. Or ever better, delete it and uncomment the game version.
 	s += "</a>"
 	s += ")"
 
@@ -273,7 +268,7 @@ GLOBAL_PROTECT(security_mode)
 		features += "~[n] player"
 
 	if (!host && hostedby)
-		features += "hosted by <b>[hostedby]</b>"
+		features += "hosted by <b>AffectedArc07</b>"
 
 	if (features)
 		s += ": [jointext(features, ", ")]"
