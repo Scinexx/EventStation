@@ -3,7 +3,7 @@ This is a direct fork of TG but with Anorexia Station (Slimmed down box station)
 
 ## Station Rules
 (This is a copypaste from the server owner)
-Event station is a server that is currently run 24/7  but on a weekly basis every saturday at 2 Pm pacific coast time the events happen. 
+Event station is a server that is currently run every saturday at 2 Pm pacific coast time. 
 The uniqueness of event station comes from the fact that it relies on the creativity of the admins, 
 this is because no normal round will ever be played on event station, every single round played
 (which for the time being will be only one round a week) will be an event.
